@@ -1,3 +1,2 @@
 This is a text for test on Mac by macvim
 edit another message
-add a new line
